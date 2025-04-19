@@ -1,0 +1,7 @@
+# Ignore TW auto-backups
+*.bak.html
+*.backup.html
+
+# NodeJS/Build tools
+node_modules/
+dist/
